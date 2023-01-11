@@ -1,2 +1,2 @@
-# C-
+# C++
 learning process of C++
